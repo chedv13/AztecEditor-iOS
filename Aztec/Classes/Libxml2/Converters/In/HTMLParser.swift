@@ -1,5 +1,4 @@
-import Foundation
-import libxml2
+import FoundatiAztec
 
 
 open class HTMLParser {
